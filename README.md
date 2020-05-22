@@ -1,7 +1,7 @@
 # trajectory_prediction_TraPHic
 This repository for studying [TraPHic paper (CVPR '18)] (https://arxiv.org/abs/1812.04767).  
 The script is originally forked from [this repository] (https://github.com/rohanchandra30/Spectral-Trajectory-and-Behavior-Prediction).  
-The scrit has been further revised in the network architecture, and it is still working on. 
+The script has been further revised in the network architecture, and it is still working on. 
 
 ## Depencencies:
 * Python 3.5.3
